@@ -1,1 +1,0 @@
-//hexlet-my-first-workflow
