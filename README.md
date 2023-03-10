@@ -1,4 +1,6 @@
 # hexlet-my-first-workflow
 hexlet-my-first-workflow
 
-https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg
+![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=feature-1)
+
+![example event parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
