@@ -5,7 +5,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps: # список шагов, которые надо выполнить
-      - run: make say-hello
+      - name: my-test-hello
+        run: make say-hello
       # checkout – клонирует репозиторий
       - uses: actions/checkout@v3
       # run – произвольная bash-команда
